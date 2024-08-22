@@ -1,0 +1,6 @@
+Notas_Carpeta_1
+
+¿Qué es un hardware?
+Link de interés: https://book.floksociety.org/ec/4/4-1-hardware-ecosistemas-de-innovacion-y-produccion-basados-en-hardware-libre/
+
+---comprendiendo definiciones básicas para poder halla una problemática---
